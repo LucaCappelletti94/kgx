@@ -25,7 +25,6 @@ REQUIRED = [
     "pyyaml>=0.0",
     #"BiolinkMG>=0.0",
     "biolinkml>=0.0",
-    "bmt>=0.1.0",
     "prologterms>=0.0.5",
     "shexjsg>=0.6.5",
     "terminaltables>=3.1.0",
